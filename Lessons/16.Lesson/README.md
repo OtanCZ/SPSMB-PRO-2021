@@ -1,4 +1,4 @@
-# 16.Hodina
+# 16.Lesson
 
 (Řešte zadání ve dvojici)
 
@@ -19,3 +19,4 @@ Aplikace musí splňovat následující body:
 
 ### Užitečné odkazy
     - https://www.geeksforgeeks.org/javafx-textinputdialog
+    - https://riptutorial.com/javafx/example/28033/creating-custom-dialog
