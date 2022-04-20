@@ -45,10 +45,11 @@ Vše co bylo před tím.
  - Co je vlákno? -
  - Jaké mohou nastat problémy? - 
  - K čemu slouží slovíčko synchronized? -
- - rozdíl mezi metody start() a join()
+ - rozdíl mezi metody start(), join() a run()
 
 ## Socket a aplikační vrstva
 - K čemu slouží socket? - 
+- Kdo vytváří socket? -
 - Jaký je rozdíl mezi TCP protokolem a HTTP protokolem? -
 - Pomocí čeho získáte příchozí data? -
 
